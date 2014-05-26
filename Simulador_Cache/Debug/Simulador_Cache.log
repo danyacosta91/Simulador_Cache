@@ -1,0 +1,16 @@
+﻿Build started 23/05/2014 11:25:47 a.m..
+     1>Project "C:\Users\Dany\Documents\Visual Studio 2012\Projects\Simulador_Cache\Simulador_Cache\Simulador_Cache.vcxproj" on node 2 (Build target(s)).
+     1>ResourceCompile:
+         C:\Program Files\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dany\Documents\Visual Studio 2012\Projects\Simulador_Cache\Debug\Simulador_Cache.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Simulador_Cache.Form1.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Dany\Documents\Visual Studio 2012\Projects\Simulador_Cache\Debug\Simulador_Cache.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Simulador_Cache.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Simulador_Cache.vcxproj -> C:\Users\Dany\Documents\Visual Studio 2012\Projects\Simulador_Cache\Debug\Simulador_Cache.exe
+     1>Done Building Project "C:\Users\Dany\Documents\Visual Studio 2012\Projects\Simulador_Cache\Simulador_Cache\Simulador_Cache.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.18
